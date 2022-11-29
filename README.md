@@ -19,4 +19,4 @@ SELECT tmc, travel_time FROM `ctps-traffic-1.INRIX_2019_Perf_Measures.INRIX_2019
 
 The downloaded CSV files are too large (approximately 300 MB each) to store in GitHub.
 Consequently they have been compressed by 7-Zip before being committed and pushed to GitHub.
-These 7-Zip archives must be uncompressed before running the Jupyter Notebook is run.
+These 7-Zip archives must be uncompressed before running the Jupyter Notebook.
